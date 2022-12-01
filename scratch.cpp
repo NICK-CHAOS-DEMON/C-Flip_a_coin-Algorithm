@@ -23,3 +23,6 @@ int main() {
     flip_over(c);
     return 0;
 }
+
+input :  1234.567
+output:  765.4321
